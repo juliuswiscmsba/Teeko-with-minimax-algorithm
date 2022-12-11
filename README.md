@@ -12,3 +12,6 @@ It is a game between two players on a 5x5 board. Each player has four markers of
 
 2. Four same colored markers that form a 2x2 box.
 
+#### Assignment Summary:
+
+Apply minimax algorithm to develop an AI game player for Teeko.
